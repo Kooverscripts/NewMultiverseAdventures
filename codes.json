@@ -1,21 +1,11 @@
 {
   "active": {
-    "pigella": {
+    "TEST": {
       "type": "Coin",
-      "amount": 400000
+      "amount": 100
     }
   },
   "expired": [
     "atomicdevoured",
-    "hnafloppedwbk",
-    "h3nryf0llowers",
-    "h0miset3rnal",
-    "melaniecavill",
-    "zatanna",
-    "bugpatch",
-    "immortality",
-    "ticktocking",
-    "billie",
-    "starlight"
   ]
 }
