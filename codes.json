@@ -4,6 +4,12 @@
       "type": "Coin",
       "amount": 100
     }
+    {
+  "YYY": {
+    "TEST": {
+      "type": "Coin",
+      "amount": 100
+    }
   },
   "expired": [
   ]
