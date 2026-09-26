@@ -3,7 +3,7 @@
     "TEST": {
       "type": "Coin",
       "amount": 100
-    }
+    },
     "YYY": {
       "type": "Coin",
       "amount": 150
