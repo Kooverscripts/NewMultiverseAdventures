@@ -1,12 +1,8 @@
 {
   "active": {
-    "TEST": {
+    "RELEASE": {
       "type": "Coin",
-      "amount": 100
-    },
-    "YYY": {
-      "type": "Coin",
-      "amount": 150
+      "amount": 40000
     }
   },
   "expired": [
